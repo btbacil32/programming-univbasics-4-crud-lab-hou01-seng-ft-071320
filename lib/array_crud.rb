@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  ["BMW","Mercedes"]
+  cars_array = ["BMW","Mercedes"]
+  cars_array.push("Audi")
   
 end
 
