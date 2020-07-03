@@ -43,6 +43,6 @@ end
 
 def update_element_from_index(array, index_number, element)
 haha_array = ["chocolate","words","mom","house",]
-haha_array[1] = "arrays!"
+haha_array[1] = "totally"
 
 end
