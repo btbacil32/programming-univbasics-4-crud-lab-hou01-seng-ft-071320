@@ -37,7 +37,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  the_array = ["chocolate","words","am","mom","house"]
+  spider_array = ["chocolate","words","mom","house","arrays!"]
+  spider_array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
